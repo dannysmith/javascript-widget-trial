@@ -1,0 +1,14 @@
+.charliehr-widget-linkline {
+  font-family: sans-serif;
+  color: #aaa;
+  font-size: 12px;
+}
+
+.charliehr-widget-linkline a {
+  text-decoration: none;
+  color: blue;
+}
+
+.charliehr-widget-wrapper {
+  background: red !important /* Important needed thanks to cleanstate. We should inline these styles, really */
+}
